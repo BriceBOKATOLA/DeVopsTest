@@ -1,0 +1,27 @@
+==> Front <==
+
+lors du clonage du projet aller dans le terminal afin d'installer les packages requits pour le bon fonctionnement de l'application
+
+dans le terminal, tapez:
+
+-> cd client\
+-> npm i
+
+=> pour lancer l'application vous devez être dans le dossier client
+
+si vous n'êtes pas dans le dossier client dans votre terminal, tapez:
+
+-> cd client\
+-> npm run dev
+
+si vous êtes dans le dossier client dans votre terminal, tapez:
+
+-> npm run dev
+
+==> End Front <==
+
+
+
+activer l'environement :  tensorFlow\Scripts\activate 
+
+https://www.notion.so/21cd16ac8702407ab10229d148461f2f?v=9f8d823591f643c18216c17657f87885&pvs=4
